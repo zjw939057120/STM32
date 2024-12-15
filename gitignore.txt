@@ -1,0 +1,4 @@
+.vscode/
+DebugConfig/
+MDK-ARM/f103c8/
+MDK-ARM/JLink*
